@@ -1,6 +1,6 @@
 # Python_code_CF
 
-Study material for a project within an eight-month Data Analytics course with CareerFoundry
+Study material for a project within a 10-month Data Analytics course with CareerFoundry
 
 ## **Project Summary**
 
